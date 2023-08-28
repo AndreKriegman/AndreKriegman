@@ -1,5 +1,7 @@
 ## Educação
 
+Olá, Meu nome é André, sou um estudante da área de sistemas computacionais e busco primeira oportunidade no mercado de trabalho.
+
 ## Sobre mim
 
 <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
