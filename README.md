@@ -6,7 +6,7 @@ Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primei
 
 ## Habilidades
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-212429?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
