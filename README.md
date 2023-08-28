@@ -1,4 +1,4 @@
-## Olá, Seja Bem-Vindo! 🤞
+## Educação
 
 ## Sobre mim
 
