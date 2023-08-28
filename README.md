@@ -1,12 +1,8 @@
-## Educação
-
-Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primeira oportunidade no mercado de trabalho.
-
 ## Sobre mim
 
 <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
 
-Sou um estudante de MongoDB, MongoCD, MongoDVD, MariaDB, Mango Loco Monster
+Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primeira oportunidade no mercado de trabalho.
 
 ## Minhas Skills que já domino como junior masters
 
