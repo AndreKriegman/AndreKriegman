@@ -1,5 +1,9 @@
 ## Olá, Seja Bem-Vindo! 🤞
 
+## Sobre mim
+
+<img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
+
 ## Minhas Skills que já domino como junior masters
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
