@@ -16,6 +16,7 @@ Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primei
 
 ![VSCode](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipse&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-000000.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## OS
 
