@@ -4,7 +4,7 @@
 
 Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primeira oportunidade no mercado de trabalho.
 
-## Minhas Skills que já domino como junior masters
+## Habilidades
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
