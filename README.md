@@ -1,2 +1,9 @@
 
-<p align="center"><strong>"Não existe dom, existe condicionamento, que é praticar sempre almejando chegar mais próximo da perfeição, pois ela é inatingível. Este é o segredo de todo talento."</strong></p>
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
