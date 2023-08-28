@@ -1,6 +1,6 @@
 ## Educação
 
-Olá, Meu nome é André, sou um estudante da área de sistemas computacionais e busco primeira oportunidade no mercado de trabalho.
+Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primeira oportunidade no mercado de trabalho.
 
 ## Sobre mim
 
