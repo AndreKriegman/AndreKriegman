@@ -6,19 +6,19 @@ Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primei
 
 ## Habilidades
 
-![JavaScript](https://img.shields.io/badge/JavaScript-212429?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-212429?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-212429.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-212429?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-212429?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-21262d.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-21262d?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-21262d?style=for-the-badge&logo=css3&logoColor=white)
 
 ## IDE
 
-![VSCode](https://img.shields.io/badge/VSCode-212429?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-212429?style=for-the-badge&logo=eclipse&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-212429.svg?style=for-the-badge&logo=vim&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-21262d?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-21262d?style=for-the-badge&logo=eclipse&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-21262d.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 ## OS
 
-![Windows](https://img.shields.io/badge/Windows-212429?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-212429?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-21262d?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=white)
