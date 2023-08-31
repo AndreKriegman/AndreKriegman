@@ -1,8 +1,8 @@
 ## Sobre mim
 
+<p>Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primeira oportunidade no mercado de trabalho.</p>
 <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
 
-Olá, Meu nome é André, sou um estudante da área de tecnologia e busco primeira oportunidade no mercado de trabalho.
 
 ## Habilidades
 
