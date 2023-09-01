@@ -1,16 +1,9 @@
 ## Sobre mim
 
-Olá, visitante do meu GitHub! 👋
-
 <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
 
-Sou o André, e quero te dar as boas-vindas ao meu espaço virtual! Aqui, você encontrará um pouco sobre mim, minhas paixões, projetos e jornada como estudante em busca de conhecimento no mundo da tecnologia. Vamos dar uma olhada em algumas informações sobre mim:
-Sobre Mim
-
-## Contato
-
-    📫 Email: andrekriegman2003@gmail.com
-    💬 Discord: sentido
+Sou o André, e quero te dar as boas-vindas ao meu espaço virtual!
+Aqui, você encontrará um pouco sobre mim, meus interesses, projetos e jornada como estudante em busca de conhecimento no mundo da tecnologia.
 
 Sinta-se à vontade para explorar meus projetos, clonar repositórios e entrar em contato. 
 
