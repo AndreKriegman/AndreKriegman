@@ -1,15 +1,8 @@
-## Sobre mim
+## About Me
 
 <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
 
-<p>Sou o André, tenho 19 anos e quero te dar as boas-vindas.</p>
-<p>Aqui, você encontrará um pouco sobre mim, meus interesses, projetos e jornada como estudante em busca de conhecimento no mundo da tecnologia.</p>
-
-Sinta-se à vontade para explorar meus projetos, clonar repositórios e entrar em contato. 
-
-Obrigado por visitar meu GitHub!
-
-## Habilidades
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=white)
