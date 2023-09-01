@@ -1,6 +1,6 @@
-## Sobre mim
 <h1>Saudações, visitante do meu GitHub! 👋</h1>
 <img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>
+## Sobre mim
 
 Sou o André, tenho 19 anos e quero te dar as boas-vindas
 Aqui, você encontrará um pouco sobre mim, meus interesses, projetos e jornada como estudante em busca de conhecimento no mundo da tecnologia.
