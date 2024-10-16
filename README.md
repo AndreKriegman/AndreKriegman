@@ -1,6 +1,6 @@
 ## About Me
 
-<!--<img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>-->
+!--<img src="https://i.pinimg.com/originals/e3/8b/75/e38b75f9ceb27f5f032f5656158dde55.gif"/>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKriegman&layout=donut&theme=github_dark)](https://github.com/AndreKriegman/github-readme-stats)
 
 ## Skills
